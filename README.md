@@ -29,6 +29,3 @@ I'm thrilled to announce that I've successfully completed this project and uploa
 By considering me for your data analyst role, you're investing in a professional who brings a blend of technical expertise, analytical acumen, and effective communication skills to the table. My completed project on GitHub serves as tangible evidence of my readiness to contribute meaningfully to your organization, driving data-driven decision-making and fostering innovation.
 
 Thank you for considering my candidacy. I'm eager to discuss how I can bring value to your team through my passion for data analytics and dedication to excellence.
-
----
-*Note: This readme provides an overview of my IBM Data Analyst Capstone Project and highlights the competencies I've demonstrated. For further insights and discussions, please feel free to explore my GitHub repository or reach out directly.*
